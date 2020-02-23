@@ -20,7 +20,7 @@ title                    : "Park's Development Diary"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "박현상(ParkHyunSang)"
-description              : "프론트엔드 개발자를 꿈꾸는 고등학생\n 영화 시나리오 공부하는 "
+description              : "프론트엔드 개발자를 꿈꾸는 고등학생\n 영화 시나리오 공부하는 중"
 url                      : "hyunsang0625.github.io"
 baseurl                  : ""
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "박현상(ParkHyunSang)"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "프론트엔드 개발자를 꿈꾸는 고등학생"
+  bio              : "프론트엔드 개발자를 꿈꾸는 고등학생\n 영화 시나리오 공부하는 중"
   location         : "Mokpo in South Korea"
   email            :
   links:
