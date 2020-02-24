@@ -3,7 +3,7 @@ title: "JavaScript 템플릿 문자열"
 date: 2020-02-24 07:15:00 -0400
 categories: JavaScript
 ---
-# 템플릿 문자열
+# JavaScript 템플릿 문자열
 ```javascript
 var cart = [
     {name: '옷', price: 2000},
