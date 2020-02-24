@@ -3,7 +3,7 @@ title: "JavaScript 문자형"
 date: 2020-02-24 04:45 :00 -0400
 categories: JavaScript
 ---
-# 017. 문자형 이해하기
+# 문자형 이해하기
 **문자형(String)** 은 값이 텍스트 형태인 데이터를 의미한다.
 ```javascript
 console.log('I m in Jeju');
