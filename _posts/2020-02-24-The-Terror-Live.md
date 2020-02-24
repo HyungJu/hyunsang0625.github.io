@@ -6,7 +6,7 @@ categories: Movie
 # 영화 시나리오 공부 - 더 테러 라이브
 ## 영화 소개
 
-더 테러 라이브 (The Terror, LIVE, 2013)
+더 테러 라이브 (The Terror, LIVE, 2013)  
 감독: 김병우
 
 ### 영화 수상
