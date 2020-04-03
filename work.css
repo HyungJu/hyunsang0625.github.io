@@ -1,0 +1,31 @@
+body{
+    background-color: #F5F5F5;
+}
+*{
+    font-family: 'Nanum Gothic', sans-serif;
+}
+.image-div{
+    width: 100%;
+    margin-top: 20px;
+}
+.image-item{
+    text-align: center;
+}
+.image-title{
+    text-align: center;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: normal;
+}
+.image{
+    width: 100%;
+    height: 50%;
+    text-align: center;
+}
+.image-info{
+    font-size: 20px;
+    font-style: normal;
+    font-weight: normal;
+    text-align: center;
+    margin-top: 10px;
+}

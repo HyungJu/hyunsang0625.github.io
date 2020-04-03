@@ -1,0 +1,109 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Nanum Gothic', sans-serif;
+
+}
+html{
+    background-color: #F5F5F5;
+}
+.loading-div{
+    width: 100%;
+    height: 100%;
+    left: 0px;
+    right: 0px;
+    margin: 0;
+}
+.main-info{
+    width: 100%;
+}
+.main-image{
+    width: 250px;
+    height: 250px;
+    text-align: center;
+    display: block;
+    margin: auto;
+    border: 0;
+    border-radius: 50%;
+    padding-bottom: 5px;
+}
+.loading-h1{
+    color: #000000;
+    font-size: 35px;
+    font-style: normal;
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 0;
+}
+.loading-h3{
+    color: #000000;
+    font-size: 25px;
+    text-align: center;
+    margin-top: 5px;
+}
+.info{
+    color: #000000;
+    text-align: center;
+    margin-top: 5px;
+    font-size: 18px;
+    font-style: normal;
+}
+.sns-image{
+    text-align: center;
+    margin-top: 20px;
+}
+.sns-a{
+    text-decoration: none;
+    text-align: center;
+}
+.sns-item{
+    text-align: center;
+    width: 60px;
+    height: 60px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+.email-div{
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.email-a{
+    text-decoration: none;
+    text-align: center;
+}
+.email-button{
+    width: 220px;
+    height: 40px;
+    text-align: center;
+    background-color: #f44336;
+    color: #ffffff;
+    border: 0;
+    border-radius: 7px;
+    font-size: 20px;
+}
+.link{
+    text-align: center;
+    margin: 0;
+    text-decoration: none;
+    text-decoration-color: none;
+
+}
+.link:hover{
+    color: gray;
+}
+/* mobile CSS */
+@media (max-width:720px){
+    body{
+        max-width: 720px;
+        max-height: auto;
+    }
+    .nav{
+        width: 100%;
+        height: auto;
+        text-align: center;
+    }
+    .ul-item{
+        text-align: center;
+    }
+}
