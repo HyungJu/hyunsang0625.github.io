@@ -20,7 +20,7 @@ title                    : "고등학생 개발자의 개발일기"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "HyunSang Park"
-description              : "An amazing website."
+description              : "HyunSang Park"
 url                      : "hyunsang0625.github.io"
 baseurl                  : ""
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
