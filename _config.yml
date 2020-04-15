@@ -93,9 +93,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "HyunSang Park"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "현재 NetChoice에서 풀스택 개발을 도전 있습니다 \n Front End, Java, Android에 관심이 있습니다."
   location         : "Somewhere"
   email            :
   links:
