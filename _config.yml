@@ -96,12 +96,12 @@ author:
   name             : "HyunSang Park"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "현재 NetChoice에서 풀스택 개발을 도전 있습니다 \n Front End, Java, Android에 관심이 있습니다."
-  location         : "Somewhere"
-  email            :
+  location         : "Mokpo, South Korea"
+  email            : "hyun.sang@parkhyunsang.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+      url: mailto:hyun.sang@parkhyunsang.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
